@@ -1,0 +1,8 @@
+flask
+pandas
+pycaret
+matplotlib
+seaborn
+jinja2
+python-dotenv
+google-generativeai
